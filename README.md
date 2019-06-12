@@ -2,7 +2,7 @@ Support code and images for [Batch convert images to PDF with Python by using Pi
 
 Usage examples
 
-```console
+```shell
 python convertor_0.py
 
 python convertor_1.py -prefix="imgs_png/" -max_range=3 -output=tst_from_png.pdf
